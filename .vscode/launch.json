@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/daksh/75-day-challenge",
-      "program": "/Users/daksh/75-day-challenge/build/Debug/outDebug"
+      "cwd": "/Users/daksh/75-day-challenge/02",
+      "program": "/Users/daksh/75-day-challenge/02/build/Debug/outDebug"
     }
   ]
 }
